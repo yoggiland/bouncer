@@ -9,6 +9,7 @@
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 696
 #
+0.0.0.0 cnet.com
 0.0.0.0 in.appcenter.ms
 0.0.0.0 applicationinsights.azure.com
 0.0.0.0 aimon.applicationinsights.azure.com
